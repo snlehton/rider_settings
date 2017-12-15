@@ -1,6 +1,0 @@
-<application>
-  <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="C:\Users\Sampsa\AppData\Local\SourceTree-Settings\beta\git_local\bin\git.exe" />
-    <option name="SSH_EXECUTABLE" value="NATIVE_SSH" />
-  </component>
-</application>
