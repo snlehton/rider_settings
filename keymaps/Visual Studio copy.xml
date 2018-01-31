@@ -24,6 +24,7 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="ContextHelp" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Forward">
