@@ -5,6 +5,15 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl alt divide" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl alt 7" />
+  </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Forward">
@@ -25,5 +34,6 @@
     <keyboard-shortcut first-keystroke="shift alt f12" />
     <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
+  <action id="ToggleBookmark7" />
   <action id="hg4idea.QGotoFromPatches" />
 </keymap>
