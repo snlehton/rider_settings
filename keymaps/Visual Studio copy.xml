@@ -1,0 +1,29 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="shift alt f12" />
+    <keyboard-shortcut first-keystroke="shift alt g" />
+  </action>
+  <action id="hg4idea.QGotoFromPatches" />
+</keymap>
