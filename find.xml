@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\StateMachineManager.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\StateMachineManager.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\StateMachineManager.cs'" />
+    <option name="customScope" value="File '...\Assets\StateMachine.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\StateMachine.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\StateMachine.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
