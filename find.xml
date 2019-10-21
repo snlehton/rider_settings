@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Scripts\CharacterView.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Scripts\CharacterView.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Scripts\CharacterView.cs'" />
+    <option name="customScope" value="File '...\Assets\Scripts\Test.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Scripts\Test.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Scripts\Test.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
