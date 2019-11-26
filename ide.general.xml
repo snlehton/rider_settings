@@ -10,10 +10,10 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
-    <entry key="ide.svg.icon" value="true" />
     <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="search.everywhere.actions" value="false" />
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="actionSystem.fix.alt.gr" value="true" />
+    <entry key="ide.mac.file.chooser.native" value="false" />
   </component>
 </application>
