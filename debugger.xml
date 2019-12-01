@@ -5,9 +5,12 @@
     </data-views>
     <general />
     <debuggers>
-      <debugger id="javascript">
+      <debugger id="dotnet_debugger">
         <configuration>
-          <custom-object-presentation />
+          <option name="allowTypingDuringDebug" value="true" />
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
         </configuration>
       </debugger>
     </debuggers>
