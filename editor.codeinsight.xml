@@ -6,4 +6,7 @@
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
   </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
 </application>
