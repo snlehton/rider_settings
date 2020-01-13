@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Behemoth Scripts" />
-    <option name="defaultScopeName" value="Behemoth Scripts" />
-    <option name="SEARCH_SCOPE" value="Behemoth Scripts" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
