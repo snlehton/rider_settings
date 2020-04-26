@@ -19,7 +19,7 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
-    <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
     <entry key="ide.svg.icon" value="true" />
+    <entry key="ide.tooltip.showAllSeverities" value="true" />
   </component>
 </application>
