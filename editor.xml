@@ -1,6 +1,5 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
