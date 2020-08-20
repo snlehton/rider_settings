@@ -22,5 +22,6 @@
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
+    <entry key="rdclient.asyncActions" value="false" />
   </component>
 </application>
