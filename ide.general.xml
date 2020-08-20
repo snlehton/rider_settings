@@ -17,10 +17,10 @@
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="search.everywhere.settings" value="true" />
+    <entry key="ide.svg.icon" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
-    <entry key="ide.svg.icon" value="true" />
+    <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
-    <entry key="light.edit.file.open.enabled" value="false" />
   </component>
 </application>
