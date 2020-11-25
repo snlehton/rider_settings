@@ -7,6 +7,7 @@
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
