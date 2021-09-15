@@ -8,6 +8,7 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="applyChangesOnDebugAction" value="false" />
+          <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="editAndContinueEnabled" value="false" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
         </configuration>
