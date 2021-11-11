@@ -33,7 +33,6 @@
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="ea.enable.developers.list" value="false" />
-    <entry key="ide.mac.bigsur.alerts.enabled" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
   </component>
   <component name="StatusBar">
