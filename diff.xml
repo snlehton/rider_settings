@@ -17,4 +17,11 @@
       </entry>
     </option>
   </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
 </application>
