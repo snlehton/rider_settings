@@ -1,0 +1,14 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="editor.preferences.handlebarsOptions" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
