@@ -7,10 +7,21 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="applyChangesOnDebugAction" value="false" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
-          <option name="editAndContinueEnabled" value="false" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
+          <option name="userUnhandledExceptionsIgnoreList">
+            <list>
+              <option value="System.OperationCanceledException" />
+              <option value="System.Threading.Tasks.TaskCanceledException" />
+              <option value="System.Threading.ThreadAbortException" />
+              <option value="System.InvalidOperationException" />
+            </list>
+          </option>
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
