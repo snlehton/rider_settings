@@ -1,0 +1,38 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:/projects/behemoth/behemoth.sln">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="283OsUur467RZXvp6ib6SjrejSR">
+              <option name="activationTimestamp" value="1692704363228" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-232.9733.6" />
+              <option name="buildTimestamp" value="1692608297103" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <option name="eap" value="true" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1692698935147" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/projects/behemoth/Server/BehemothServer.sln">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="27C9KMEq1gMu2KCo1tWwQbUj6uZ">
+              <option name="activationTimestamp" value="1692704314164" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-232.9733.6" />
+              <option name="buildTimestamp" value="1692608297103" />
+              <option name="eap" value="true" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1692704277454" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="C:/projects/behemoth/behemoth.sln" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\projects\behemoth" value="true" />
+        <entry key="C:\projects\behemoth\.idea\.idea.behemoth" value="true" />
+        <entry key="C:\projects\behemoth\Server" value="true" />
+        <entry key="C:\projects\behemoth\Server\.idea\.idea.BehemothServer" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,183 @@
+<application>
+  <component name="RiderPerAppToolWindowLayoutV2"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Space Code Reviews"
+        },
+        {
+          "id": "Bookmarks",
+          "isSplit": true
+        },
+        {
+          "id": "Merge Requests"
+        },
+        {
+          "id": "Pull Requests"
+        },
+        {
+          "id": "Learn",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.07324219
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Build",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Dynamic Program Analysis",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Unit Tests",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "dotTrace Profiler",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "NuGet",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "anchor": "BOTTOM",
+          "weight": 0.3301006
+        },
+        {
+          "id": "dotMemory Profiler",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Debug",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.3301006
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Unity",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Unit Tests Coverage",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "IL Viewer",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 4,
+          "anchor": "RIGHT"
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.07324219,
+        "bottom": 0.3301006,
+        "right": 0.33
+      }
+    }
+  }
+}]]></component>
+</application>

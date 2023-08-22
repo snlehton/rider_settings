@@ -2,5 +2,6 @@
   <component name="RiderPerAppSettingsManager">
     <option name="oldToolWindowStateMigrated" value="true" />
     <option name="perIdeMigrationStage" value="1" />
+    <option name="toolWindowsPerApp" value="true" />
   </component>
 </application>

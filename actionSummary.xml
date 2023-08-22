@@ -1,0 +1,190 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="31" l="1692704741132" />
+    </e>
+    <e n="Back">
+      <i c="14" l="1692704054698" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1692700929412" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="82" l="1692704774466" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="72" l="1692704761766" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1692703107677" />
+    </e>
+    <e n="EditorCopy">
+      <i c="9" l="1692704648128" />
+    </e>
+    <e n="EditorCut">
+      <i c="9" l="1692704766110" />
+    </e>
+    <e n="EditorDelete">
+      <i c="15" l="1692704620131" />
+    </e>
+    <e n="EditorDown">
+      <i c="106" l="1692704764675" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="25" l="1692704057275" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1692703105616" />
+    </e>
+    <e n="EditorEnter">
+      <i c="47" l="1692704773157" />
+    </e>
+    <e n="EditorEscape">
+      <i c="9" l="1692704677156" />
+    </e>
+    <e n="EditorLeft">
+      <i c="313" l="1692704756070" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="18" l="1692701828271" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="25" l="1692704745938" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="14" l="1692704511476" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="25" l="1692704744484" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="6" l="1692704742317" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="1" l="1692701429242" />
+    </e>
+    <e n="EditorPaste">
+      <i c="13" l="1692704773311" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="1" l="1692700004618" />
+    </e>
+    <e n="EditorRight">
+      <i c="133" l="1692704675491" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="22" l="1692704765720" />
+    </e>
+    <e n="EditorTextEnd">
+      <i c="1" l="1692703457698" />
+    </e>
+    <e n="EditorTextStart">
+      <i c="3" l="1692704766602" />
+    </e>
+    <e n="EditorUp">
+      <i c="60" l="1692704677479" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="8" l="1692703447126" />
+    </e>
+    <e n="ExtractMethod">
+      <i c="2" l="1692703409554" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1692703247581" />
+    </e>
+    <e n="FindUsages">
+      <i c="3" l="1692703363860" />
+    </e>
+    <e n="Forward">
+      <i c="1" l="1692703448887" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="19" l="1692704429678" />
+    </e>
+    <e n="GotoNextError">
+      <i c="1" l="1692701181540" />
+    </e>
+    <e n="Inline">
+      <i c="3" l="1692704600173" />
+    </e>
+    <e n="IntroduceField">
+      <i c="1" l="1692704632377" />
+    </e>
+    <e n="IntroduceVariable">
+      <i c="3" l="1692704447181" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="13" l="1692701201939" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="13" l="1692704764423" />
+    </e>
+    <e n="ParameterInfo">
+      <i c="1" l="1692700932091" />
+    </e>
+    <e n="ReSharperGotoNextErrorInSolution">
+      <i c="2" l="1692704775074" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1692700912701" />
+    </e>
+    <e n="Resume">
+      <i c="69" l="1692704316874" />
+    </e>
+    <e n="RiderEditSource">
+      <i c="1" l="1692699163550" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="2" l="1692704267213" />
+    </e>
+    <e n="SafeDelete">
+      <i c="2" l="1692700885167" />
+    </e>
+    <e n="SaveDocument">
+      <i c="10" l="1692703477811" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1692704720097" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="7" l="1692704756453" />
+    </e>
+    <e n="SilentCodeCleanup">
+      <i c="2" l="1692704654590" />
+    </e>
+    <e n="SmartTypeCompletion">
+      <i c="2" l="1692704574969" />
+    </e>
+    <e n="StepOver">
+      <i c="90" l="1692703972222" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1692703895945" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="23" l="1692704379344" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="2" l="1692703261487" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1692704728916" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1692704263565" />
+    </e>
+    <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
+      <i c="21" l="1692704429666" />
+    </e>
+    <e n="com.jetbrains.rider.completion.summaryInfo.ParameterInfoListView$NextSignatureAction">
+      <i c="1" l="1692700930809" />
+    </e>
+    <e n="copilot.applyInlays">
+      <i c="4" l="1692704740053" />
+    </e>
+    <e n="copilot.disposeInlays">
+      <i c="2" l="1692703302117" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,2171 @@
+<application>
+  <component name="EventLogWhitelist">
+    <update recorder-id="MLSE" last-modified="0" />
+    <update recorder-id="FUS" last-modified="0" />
+    <options recorder-id="MLSE">
+      <option name="id_salt" value="" />
+      <option name="groupAlertThreshold" value="6000" />
+      <option name="dataThreshold" value="15000" />
+      <option name="groupDataThreshold" value="10000" />
+      <option name="id_salt_revision" value="0" />
+    </options>
+    <options recorder-id="FUS">
+      <option name="id_salt" value="" />
+      <option name="groupAlertThreshold" value="6000" />
+      <option name="dataThreshold" value="15000" />
+      <option name="groupDataThreshold" value="10000" />
+      <option name="id_salt_revision" value="0" />
+    </options>
+  </component>
+  <component name="JSRemoteModulesRegistry">
+    <modules />
+  </component>
+  <component name="PluginAdvertiserExtensions"><![CDATA[{
+  "plugins": {
+    "*.idl": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.fx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.pl": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.pm": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.aj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.hs": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.sql": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jsf": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jsp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jspf": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.tag": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.tagf": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.zip": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.egg": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ear": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ane": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.war": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jar": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.apk": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.swc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.phtml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.hphp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.template": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.test": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.log": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.gdsl": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.module": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.php4": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.php5": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.gold": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.txt": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.gy": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.groovy": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.form": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.php": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.swift": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.pptx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xlsx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.pdf": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ppt": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.vsd": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.doc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.mdb": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.hlp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.odt": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xls": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.docx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.iws": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.iml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ipr": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.patch": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.diff": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ignore": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "bowerrc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.inputactions": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "jest.config": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    ".prettierrc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    ".stylelintrc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    ".eslintrc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.har": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jsb2": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.json": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jsb3": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    ".babelrc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.json5": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "devcontainer.json": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ndjson": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jsonlines": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ldjson": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jsonl": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.regexp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cpp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cxx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.c++": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cu": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.c": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cppm": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ixx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.usf": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ino": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.hh": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.inl": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.h": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ipp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.hpp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.hxx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ush": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.mpp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.pch": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.tcc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.tpp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cuh": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.inc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.compute": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cg": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cginc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.hlslinc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.hlsl": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.hlsli": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.dic": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.rnc": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.htm": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.html": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.shtm": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.shtml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.sht": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xhtml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.mod": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.dtd": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ent": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.elt": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.fxml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jrxml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xsd": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.disco": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.myapp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xul": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xsl": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wsdl": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wadcfgx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.svcmap": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.nuspec": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cscfg": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.dotsettings": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.filelayout": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ant": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.stylecop": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.manifest": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.rng": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.tld": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jhm": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.webref": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "StyleCop.Cache": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.tps": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.jnlp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.appxmanifest": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xslt": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.axml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.csdef": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cs": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xaml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.paml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.axaml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.config": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.settings": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wixproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wixobj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wxs": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wixmsp": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wixout": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wixpdb": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wixmst": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wxi": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wxl": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.wixlib": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.localizationmanager": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.resx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.vb": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.il": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.overridetasks": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.targets": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.tasks": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.props": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.isproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.proj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.msbuildproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.androidproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.csproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ccproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.fsproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.shproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.projitems": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.sqlproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.njsproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.esproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.pubxml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.vbproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.vcxitems": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.vcxproj": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.ruleset": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.sln": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.slnf": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.xib": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.storyboard": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.entitlements": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "Entitlements.plist": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "entitlements.plist": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.plist": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.baml": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.snk": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cache": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.exe": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.pfx": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.dll": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.swiftmodule": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.pdb": {
+      "pluginIdString": "com.intellij",
+      "nullablePluginName": "IDEA CORE",
+      "isBundled": true
+    },
+    "*.cfg": {
+      "pluginIdString": "com.jetbrains.plugins.ini4idea",
+      "nullablePluginName": "Ini",
+      "isBundled": true
+    },
+    "*.ini": {
+      "pluginIdString": "com.jetbrains.plugins.ini4idea",
+      "nullablePluginName": "Ini",
+      "isBundled": true
+    },
+    ".flowconfig": {
+      "pluginIdString": "com.jetbrains.plugins.ini4idea",
+      "nullablePluginName": "Ini",
+      "isBundled": true
+    },
+    "*.jpg": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.psd": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.xbm": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.tiff": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.bigtiff": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.bmp": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.pcx": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.gif": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.png": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.ppm": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.rgbe": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.icns": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.pnm": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.tga": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.tif": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.ico": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.xpm": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.pgm": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.dcx": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.jpeg": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.wbmp": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.pbm": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.pam": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.jbig2": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.svg": {
+      "pluginIdString": "com.intellij.platform.images",
+      "nullablePluginName": "Images",
+      "isBundled": true
+    },
+    "*.css": {
+      "pluginIdString": "com.intellij.css",
+      "nullablePluginName": "CSS",
+      "isBundled": true
+    },
+    ".editorconfig": {
+      "pluginIdString": "org.editorconfig.editorconfigjetbrains",
+      "nullablePluginName": "EditorConfig",
+      "isBundled": true
+    },
+    "*.yml": {
+      "pluginIdString": "org.jetbrains.plugins.yaml",
+      "nullablePluginName": "YAML",
+      "isBundled": true
+    },
+    "*.yaml": {
+      "pluginIdString": "org.jetbrains.plugins.yaml",
+      "nullablePluginName": "YAML",
+      "isBundled": true
+    },
+    "*.tt": {
+      "pluginIdString": "org.jetbrains.fortea",
+      "nullablePluginName": "ForTea",
+      "isBundled": true
+    },
+    "*.t4": {
+      "pluginIdString": "org.jetbrains.fortea",
+      "nullablePluginName": "ForTea",
+      "isBundled": true
+    },
+    "*.ttinclude": {
+      "pluginIdString": "org.jetbrains.fortea",
+      "nullablePluginName": "ForTea",
+      "isBundled": true
+    },
+    "*.md": {
+      "pluginIdString": "org.intellij.plugins.markdown",
+      "nullablePluginName": "Markdown",
+      "isBundled": true
+    },
+    "*.markdown": {
+      "pluginIdString": "org.intellij.plugins.markdown",
+      "nullablePluginName": "Markdown",
+      "isBundled": true
+    },
+    "*.properties": {
+      "pluginIdString": "com.intellij.properties",
+      "nullablePluginName": "Properties",
+      "isBundled": true
+    },
+    "*.uml": {
+      "pluginIdString": "com.intellij.diagram",
+      "nullablePluginName": "Diagrams",
+      "isBundled": true
+    },
+    "*.gdbcommandsfiletypeextension": {
+      "pluginIdString": "com.intellij.cidr.debugger",
+      "nullablePluginName": "CIDR Debugger",
+      "isBundled": true
+    },
+    "*.lldbcommandsfiletypeextension": {
+      "pluginIdString": "com.intellij.cidr.debugger",
+      "nullablePluginName": "CIDR Debugger",
+      "isBundled": true
+    },
+    "*.natvis": {
+      "pluginIdString": "com.intellij.cidr.debugger",
+      "nullablePluginName": "CIDR Debugger",
+      "isBundled": true
+    },
+    "*.sh": {
+      "pluginIdString": "com.jetbrains.sh",
+      "nullablePluginName": "Shell Script",
+      "isBundled": true
+    },
+    "*.bash": {
+      "pluginIdString": "com.jetbrains.sh",
+      "nullablePluginName": "Shell Script",
+      "isBundled": true
+    },
+    "*.zsh": {
+      "pluginIdString": "com.jetbrains.sh",
+      "nullablePluginName": "Shell Script",
+      "isBundled": true
+    },
+    "*.tsv": {
+      "pluginIdString": "intellij.grid.core.impl",
+      "nullablePluginName": "Data Editor Support Core",
+      "isBundled": true
+    },
+    "*.csv": {
+      "pluginIdString": "intellij.grid.core.impl",
+      "nullablePluginName": "Data Editor Support Core",
+      "isBundled": true
+    },
+    "*.ijperf": {
+      "pluginIdString": "com.jetbrains.performancePlugin",
+      "nullablePluginName": "Performance Testing",
+      "isBundled": true
+    },
+    "*.pcss": {
+      "pluginIdString": "org.intellij.plugins.postcss",
+      "nullablePluginName": "PostCSS",
+      "isBundled": true
+    },
+    "*.xpath": {
+      "pluginIdString": "XPathView",
+      "nullablePluginName": "XPathView + XSLT",
+      "isBundled": true
+    },
+    "*.xpath2": {
+      "pluginIdString": "XPathView",
+      "nullablePluginName": "XPathView + XSLT",
+      "isBundled": true
+    },
+    "*.jql": {
+      "pluginIdString": "com.intellij.tasks",
+      "nullablePluginName": "Task Management",
+      "isBundled": true
+    },
+    "Dockerfile": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "Dockerfile.fast-jar": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "Dockerfile.jvm": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "Dockerfile.native-micro": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "Dockerfile.native": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "Dockerfile.legacy-jar": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "*.dockerfile": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "Dockerfile.jlink": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "Dockerfile.native-distroless": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "*.dockerignore": {
+      "pluginIdString": "Docker",
+      "nullablePluginName": "Docker",
+      "isBundled": true
+    },
+    "*.dcproj": {
+      "pluginIdString": "rider.intellij.plugin.appender",
+      "nullablePluginName": "Rider Plugins Appender",
+      "isBundled": true
+    },
+    "*.gitignore": {
+      "pluginIdString": "Git4Idea",
+      "nullablePluginName": "Git",
+      "isBundled": true
+    },
+    "exclude": {
+      "pluginIdString": "Git4Idea",
+      "nullablePluginName": "Git",
+      "isBundled": true
+    },
+    "*.snap": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.js.flow": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.js": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.cjs": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.as": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.js2": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.es": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.ats": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.cts": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.mts": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.ts": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.tsx": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.mjs": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.es6": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.jsx": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "jshint.json": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.jshintrc": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "yarn.lock": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "tsconfig.app.json": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "tsconfig.spec.json": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "tsconfig.json": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "tsconfig.e2e.json": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "tsconfig.editor.json": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "tsconfig.test.json": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "tsconfig.lib.json": {
+      "pluginIdString": "JavaScript",
+      "nullablePluginName": "JavaScript and TypeScript",
+      "isBundled": true
+    },
+    "*.js.map": {
+      "pluginIdString": "JavaScriptDebugger",
+      "nullablePluginName": "JavaScript Debugger",
+      "isBundled": true
+    },
+    "*.cshtml": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.razor": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.asax": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.aspx": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.skin": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.ascx": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.master": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.asmx": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.svc": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.ashx": {
+      "pluginIdString": "com.jetbrains.rider.razor",
+      "nullablePluginName": "Support for ASP.NET and Razor",
+      "isBundled": true
+    },
+    "*.pug": {
+      "pluginIdString": "com.jetbrains.plugins.jade",
+      "nullablePluginName": "Pug (ex-Jade)",
+      "isBundled": true
+    },
+    "*.jade": {
+      "pluginIdString": "com.jetbrains.plugins.jade",
+      "nullablePluginName": "Pug (ex-Jade)",
+      "isBundled": true
+    },
+    "*.sarif": {
+      "pluginIdString": "org.intellij.qodana",
+      "nullablePluginName": "Qodana",
+      "isBundled": true
+    },
+    "*.sarif.json": {
+      "pluginIdString": "org.intellij.qodana",
+      "nullablePluginName": "Qodana",
+      "isBundled": true
+    },
+    "*.uasset": {
+      "pluginIdString": "com.jetbrains.rider-cpp",
+      "nullablePluginName": "Support for C++ Language",
+      "isBundled": true
+    },
+    "*.upack": {
+      "pluginIdString": "com.jetbrains.rider-cpp",
+      "nullablePluginName": "Support for C++ Language",
+      "isBundled": true
+    },
+    "*.ufont": {
+      "pluginIdString": "com.jetbrains.rider-cpp",
+      "nullablePluginName": "Support for C++ Language",
+      "isBundled": true
+    },
+    "*.umap": {
+      "pluginIdString": "com.jetbrains.rider-cpp",
+      "nullablePluginName": "Support for C++ Language",
+      "isBundled": true
+    },
+    "*.uplugin": {
+      "pluginIdString": "com.jetbrains.rider-cpp",
+      "nullablePluginName": "Support for C++ Language",
+      "isBundled": true
+    },
+    "*.uproject": {
+      "pluginIdString": "com.jetbrains.rider-cpp",
+      "nullablePluginName": "Support for C++ Language",
+      "isBundled": true
+    },
+    "*.handlebars": {
+      "pluginIdString": "com.dmarcotte.handlebars",
+      "nullablePluginName": "Handlebars/Mustache",
+      "isBundled": true
+    },
+    "*.hbs": {
+      "pluginIdString": "com.dmarcotte.handlebars",
+      "nullablePluginName": "Handlebars/Mustache",
+      "isBundled": true
+    },
+    "*.mustache": {
+      "pluginIdString": "com.dmarcotte.handlebars",
+      "nullablePluginName": "Handlebars/Mustache",
+      "isBundled": true
+    },
+    "*.vue": {
+      "pluginIdString": "org.jetbrains.plugins.vue",
+      "nullablePluginName": "Vue.js",
+      "isBundled": true
+    },
+    "*.shader": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.glslinc": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.glsl": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.asmdef": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.asmref": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.prefab": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.unity": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.controller": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.meta": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.asset": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.anim": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.uxml": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    },
+    "*.uss": {
+      "pluginIdString": "com.intellij.resharper.unity",
+      "nullablePluginName": "Unity Support",
+      "isBundled": true
+    }
+  }
+}]]></component>
+  <component name="PluginFeatureCacheService"><![CDATA[{
+  "extensions": {
+    "lastUpdateTime": 1692704282484
+  },
+  "dependencies": {
+    "lastUpdateTime": 1692704282485
+  }
+}]]></component>
+  <component name="PluginFeatureService"><![CDATA[{
+  "features": {
+    "com.intellij.facetType": {
+    },
+    "dependencySupport": {
+      "featureMap": {
+        "javascript:npm:postcss": {
+          "displayName": "PostCSS",
+          "pluginData": {
+            "pluginIdString": "org.intellij.plugins.postcss",
+            "nullablePluginName": "PostCSS",
+            "isBundled": true
+          }
+        },
+        "executable:docker": {
+          "displayName": "executable:docker",
+          "pluginData": {
+            "pluginIdString": "Docker",
+            "nullablePluginName": "Docker",
+            "isBundled": true
+          }
+        },
+        "executable:podman": {
+          "displayName": "executable:podman",
+          "pluginData": {
+            "pluginIdString": "Docker",
+            "nullablePluginName": "Docker",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:react": {
+          "displayName": "React",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:webpack": {
+          "displayName": "Webpack",
+          "pluginData": {
+            "pluginIdString": "intellij.webpack",
+            "nullablePluginName": "Webpack",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:tailwindcss": {
+          "displayName": "Tailwind CSS",
+          "pluginData": {
+            "pluginIdString": "com.intellij.tailwindcss",
+            "nullablePluginName": "Tailwind CSS",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:vite": {
+          "displayName": "Vite",
+          "pluginData": {
+            "pluginIdString": "intellij.vitejs",
+            "nullablePluginName": "Vite",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:prettier": {
+          "displayName": "Prettier",
+          "pluginData": {
+            "pluginIdString": "intellij.prettierJS",
+            "nullablePluginName": "Prettier",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:next": {
+          "displayName": "Next.js",
+          "pluginData": {
+            "pluginIdString": "intellij.nextjs",
+            "nullablePluginName": "Next.js Support",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:pug": {
+          "displayName": "Pug",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.plugins.jade",
+            "nullablePluginName": "Pug (ex-Jade)",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:hbs": {
+          "displayName": "Handlebars",
+          "pluginData": {
+            "pluginIdString": "com.dmarcotte.handlebars",
+            "nullablePluginName": "Handlebars/Mustache",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:vue": {
+          "displayName": "Vue.js",
+          "pluginData": {
+            "pluginIdString": "org.jetbrains.plugins.vue",
+            "nullablePluginName": "Vue.js",
+            "isBundled": true
+          }
+        },
+        "javascript:npm:nuxt": {
+          "displayName": "Nuxt",
+          "pluginData": {
+            "pluginIdString": "org.jetbrains.plugins.vue",
+            "nullablePluginName": "Vue.js",
+            "isBundled": true
+          }
+        }
+      }
+    },
+    "com.intellij.configurationType": {
+      "featureMap": {
+        "CompoundRunConfigurationType": {
+          "displayName": "Compound",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "RiderUnitTests": {
+          "displayName": "Unit Tests",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "IisApplication": {
+          "displayName": "IIS Application",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "XamarinIOSProject": {
+          "displayName": "Xamarin.iOS",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "XamarinMacProject": {
+          "displayName": "Xamarin.Mac",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "UwpProject": {
+          "displayName": "UWP",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "RunNativeExe": {
+          "displayName": "Native Executable",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "RunExe": {
+          "displayName": ".NET Executable",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "LaunchSettings": {
+          "displayName": ".NET Launch Settings Profile",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "DotNetProject": {
+          "displayName": ".NET Project",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "ConnectRemote": {
+          "displayName": "Mono Remote",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "DotNetMsBuildPublish": {
+          "displayName": "Publish to IIS",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "DotNetFolderPublish": {
+          "displayName": "Publish to folder",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "DotNetStaticMethod": {
+          "displayName": ".NET Static Method",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "ShConfigurationType": {
+          "displayName": "Shell Script",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.sh",
+            "nullablePluginName": "Shell Script",
+            "isBundled": true
+          }
+        },
+        "XSLT": {
+          "displayName": "XSLT",
+          "pluginData": {
+            "pluginIdString": "XPathView",
+            "nullablePluginName": "XPathView + XSLT",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerJest": {
+          "displayName": "Jest",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerVitest": {
+          "displayName": "Vitest",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerProtractor": {
+          "displayName": "Protractor",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.grunt": {
+          "displayName": "Grunt.js",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.gulp": {
+          "displayName": "Gulp.js",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.npm": {
+          "displayName": "npm",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "NodeWebKit": {
+          "displayName": "NW.js",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "ChromiumRemoteDebugType": {
+          "displayName": "Attach to Node.js/Chrome",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "FirefoxRemoteDebugType": {
+          "displayName": "Firefox Remote",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "ReactNative": {
+          "displayName": "React Native",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "JavascriptDebugType": {
+          "displayName": "JavaScript Debug",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "NodeJSConfigurationType": {
+          "displayName": "Node.js",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "NodeunitConfigurationType": {
+          "displayName": "Nodeunit",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "mocha-javascript-test-runner": {
+          "displayName": "Mocha",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "CppProject": {
+          "displayName": "C++ Project",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.rider-cpp",
+            "nullablePluginName": "Support for C++ Language",
+            "isBundled": true
+          }
+        },
+        "Uproject": {
+          "displayName": "Uproject",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.rider-cpp",
+            "nullablePluginName": "Support for C++ Language",
+            "isBundled": true
+          }
+        },
+        "RiderCppCoreDump": {
+          "displayName": "Native Core Dump Debug",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.rider-cpp",
+            "nullablePluginName": "Support for C++ Language",
+            "isBundled": true
+          }
+        },
+        "UNITY_DEBUG_RUN_CONFIGURATION": {
+          "displayName": "Attach to Unity Editor",
+          "pluginData": {
+            "pluginIdString": "com.intellij.resharper.unity",
+            "nullablePluginName": "Unity Support",
+            "isBundled": true
+          }
+        },
+        "UnityPlayer": {
+          "displayName": "Attach to Unity Player",
+          "pluginData": {
+            "pluginIdString": "com.intellij.resharper.unity",
+            "nullablePluginName": "Unity Support",
+            "isBundled": true
+          }
+        },
+        "RunUnityExe": {
+          "displayName": "Standalone Player",
+          "pluginData": {
+            "pluginIdString": "com.intellij.resharper.unity",
+            "nullablePluginName": "Unity Support",
+            "isBundled": true
+          }
+        },
+        "docker-deploy": {
+          "displayName": "Docker",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        }
+      }
+    }
+  }
+}]]></component>
+  <component name="editorConfigEncodings">
+    <file url="file://C:/projects/behemoth/Library/Artifacts/28/280d3831ab6bc08648876e164d4a97ae" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/27/2700d5c56df3c351384b2f0e834afcac" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/5e/5e23dbf5e29c0b4fbbc6da08a02c5fee" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Logs/AssetImportWorker1.log" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/PlayerProfilef45d/00/4a755361da02738e5e4a2490921be95c.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/Buildingad57/00/f55cf85cd7ca9d29562cae21cb0375a0.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Temp/FSTimeGet-8b964181b22da9b4da868cd9e37b85fc" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/.idea/.idea.behemoth/.idea/indexLayout.xml" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/PlayerProfilef45d/00/381befa7dff79298733614477e834e0b.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/BuildCache/f8/f85033a7723615a7f31bc88a4cf79c03/b80ca9709b504c69e8caf0f69890ffa9" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/SimpleAdditive0940/00/3ee128b37dbd9ba75fff4a8c898bb0e7.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Logs/AssetImportWorker0.log" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/SpriteAdvancedb148/00/ddfda8fce2897c3dd76778b3e02b7a65.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/e1/e13b866e1633fbf83879a1322afd4bed" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/CharacterCardEffects2fff/00/fcd757882ac4d25d1ddc6396a79b2aed.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/SimpleAdditive0940/00/7a556aa70fb77a6cb7c3b3f4e2f54a2a.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/Skyd20d/00/a3baf108f6cbc2d91b0d62625c2e211f.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Assets/Addressables/DynamicArtContent/Spritesheets/TraitIcons_1.png" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/35/35568c5d634b9bec04170f6fde2f654c" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/Radar0438/00/d790a3c49387197f038e803b57735da5.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/85/85c46f4a89d4f3f95e54ac2fad7e406f" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Assets/Addressables/DynamicArtContent/Spritesheets/TraitIcons_0.png" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Logs/shadercompiler-AssetImportWorker0.log" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/5d/5d97472ceaf13c4c473c678b4ceb62c2" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/MagicPortal4392/00/cb09ef96793706c0e1187f8c4fa62760.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/9a/9ab2ab024c780f8ab9f2d5e371c9946b" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/ScrollingTexture54a1/00/8af017382f888097d8f8d97c775e751f.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Assets/Addressables/DynamicArtContent/Spritesheets/TraitIcons_0.png.meta" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Temp/FSTimeGet-b807583e445a1754fb281e44cdbf16fe" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/fb/fb6e01ee8efd30618c98c0f9996b680c" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/MagicPortal4392/00/f4b4dd7793e02c8c46328e59c814f5a7.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/b9/b98883aa7e88a2190ed5611eb5114e2a" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/4c/4cbd237f4b0620c7df81dc9bc66d3db6" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ProtocolInstance.json" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/ScrollingTexture54a1/00/54be27041a19ea6402333850081cd5db.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/56/569b58ea7256df96fb53963bf6c4b388" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/91/91d9e9d7beb706e0eb72f45ee1478b60" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/RaidCardEffects3a34/00/6339e5c679e68aa42a3f5cc56525871d.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/com.unity.addressables/aa/Android/buildLogs.json" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/MagicPortal4392/00/621ced73ee852a3a1b0331a3d06a29c1.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Assets/Addressables/DynamicArtContent/Spritesheets/TraitIcons_1.asset.meta" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/ProfileBannerGuildGlowceca/00/316a615240a4e8b4f5c68e52ab6da991.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Temp/FSTimeGet-cdf5284b643b86e418e0ee9135d9c867" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Assets/Addressables/DynamicArtContent/Spritesheets/TraitIcons_1.png.meta" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Temp/__Backupscenes" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Assets/Addressables/DynamicArtContent/Spritesheets/TraitIcons_1.mat.meta" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/PlayerProfilef45d/00/cea1ddb5b344c42746d4857b75e7efb6.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/Skyd20d/00/66bc61234d9fe46e6c2fe2973d067f08.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Assets/Addressables/DynamicArtContent/Spritesheets/TraitIcons_1.asset" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/dc/dc920041ce2766c44d387dd6618af7ac" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/MagicPortal4392/00/f1d95fa1fc01934e865462d4ac5b87c3.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/EditorInstance.json" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/com.unity.addressables/aa/Android" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/FadetoColor255f/00/a0a0f934089ffd9176b3534a2b50da4f.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/FadetoColor255f/00/03043252d0edcf55616892019d7aa736.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/14/14726b8a47daa7e44da0117935b827cb" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/Sea15a2/00/f2c51a692c29b4497879dbdfdb44c2f9.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/ItemCardv2ad85/00/10e8eed4cd2cecb916c408150f23a5a6.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/PlayerProfilef45d/00/2a5da5bfb65f8da2ff885d12bed3853f.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/bb/bbcb45fd7368a1f005e1af275766bf0d" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/e7/e7208b2dcf1aea8a9e360c2d688799ed" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Assets/Addressables/DynamicArtContent/Spritesheets/TraitIcons_1.mat" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/SpriteAdvancedb148/00/ce499e30c87d6324fef88ce0be564ec4.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/RaidCardEffects3a34/00/c28a66284f33cea4731727abb8389c32.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/fb/fb687915ec9974620dba1a01acd42f3b" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/SpriteAdvancedb148/00/8cac1982a29c025ada4ffd30602c97e9.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/SimpleAdditive0940/00/9eba87457924793ddf786a4e1b6c9a07.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/BuildCache/84/845387a76b96390c2215fffb83c0fd1a/95ac7d35d5939c86c2c318be152553b4" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/PlayerProfilef45d/00/ae1297154330b4875ee6cf06ef1bfdf0.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/ItemCardv2ad85/00/ab3af54ddde7330815b24c35fbc5eab7.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Temp" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/SpriteAdvancedb148/00/e76ff6fb7152f1111f403a7e5b1ca396.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/SimpleAdditive0940/00/711088288e6707130f37684a94db2e80.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/72/7290aaca6e136f396e512bed8f91236c" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/5f/5fe797a109bf7f60c738d0130d9f49bd" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/Sea15a2/00/a9b704c490c057c64c16571cdeb389cc.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Temp/com.unity.addressables" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/ProfileBannerGuildGlowceca/00/830c948d396c119e6f60dd85ad1a9218.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/Buildingad57/00/11986c04810fbf43ae82b313fa5001ee.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/70/70a241ae603cdc489d9a51f5e87b6a98" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/58/58bf139b9a057bf7611ba92ed5cec09e" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/PlayerProfilef45d/00/1d349149d2437c81087d091071660950.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/Radar0438/00/12ac6532e672b5811402fb80061a5b7f.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/ShaderCache/shadergraph/CharacterCardEffects2fff/00/56dedbf5b70629565b67d318cfe3f559.bin" charset="utf-8-bom" />
+    <file url="file://C:/projects/behemoth/Library/Artifacts/ba/ba457bb75df62b41b14f3a8afb69bb5d" charset="utf-8-bom" />
+  </component>
+</application>
