@@ -3,6 +3,8 @@
     <option name="pluginIds">
       <list>
         <option value="intellij.vitejs" />
+        <option value="me.seclerp.rider.plugins.efcore" />
+        <option value="com.intellij.bigdatatools.rfs" />
       </list>
     </option>
   </component>
