@@ -2,6 +2,7 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="se.text.search" value="true" />
       </map>
     </option>
