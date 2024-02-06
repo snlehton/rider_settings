@@ -1,5 +1,52 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
+    <languageAllowList>
+      <map>
+        <entry key="*" value="true" />
+        <entry key="C++" value="false" />
+        <entry key="Cg" value="false" />
+        <entry key="Config" value="false" />
+        <entry key="CronExp" value="false" />
+        <entry key="DTD" value="false" />
+        <entry key="EditorConfig" value="false" />
+        <entry key="GDB" value="false" />
+        <entry key="GitExclude" value="false" />
+        <entry key="GitIgnore" value="false" />
+        <entry key="HEXDUMP" value="false" />
+        <entry key="HTML" value="false" />
+        <entry key="HtmlCompatible" value="false" />
+        <entry key="IL" value="false" />
+        <entry key="IgnoreLang" value="false" />
+        <entry key="JQL" value="false" />
+        <entry key="JSON" value="false" />
+        <entry key="JSON Lines" value="false" />
+        <entry key="JSON5" value="false" />
+        <entry key="JSRegexp" value="false" />
+        <entry key="JSUnicodeRegexp" value="false" />
+        <entry key="LLDB" value="false" />
+        <entry key="MSBuild" value="false" />
+        <entry key="Markdown" value="false" />
+        <entry key="Properties" value="false" />
+        <entry key="RELAX-NG" value="false" />
+        <entry key="Resx" value="false" />
+        <entry key="RuleSet" value="false" />
+        <entry key="SVG" value="false" />
+        <entry key="Shell Script" value="false" />
+        <entry key="SolutionFile" value="false" />
+        <entry key="TEXT" value="false" />
+        <entry key="UXML" value="false" />
+        <entry key="UnityYaml" value="false" />
+        <entry key="VB" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="false" />
+        <entry key="Xaml" value="false" />
+        <entry key="XsdRegExp" value="false" />
+        <entry key="YouTrack" value="false" />
+        <entry key="yaml" value="false" />
+      </map>
+    </languageAllowList>
+    <option name="inlayTextColor" value="#244d52" />
+    <option name="showIdeCompletions" value="true" />
   </component>
 </application>
