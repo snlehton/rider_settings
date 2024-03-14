@@ -3,6 +3,7 @@
     <option name="enabledBlacklistToolWindowsId">
       <set>
         <option value="Unit Tests" />
+        <option value="dotTrace Profiler" />
       </set>
     </option>
     <option name="oldToolWindowStateMigrated" value="true" />
