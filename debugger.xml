@@ -7,7 +7,6 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="groupNonPublicMembers" value="true" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="userUnhandledExceptionsIgnoreList">
             <list>
