@@ -2,6 +2,7 @@
   <component name="RiderPerAppSettingsManager">
     <option name="enabledBlacklistToolWindowsId">
       <set>
+        <option value="TODO" />
         <option value="Unit Tests" />
         <option value="dotMemory Profiler" />
         <option value="dotTrace Profiler" />
