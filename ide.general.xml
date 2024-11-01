@@ -10,5 +10,6 @@
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="ide.experimental.ui" value="true" />
     <entry key="ide.svg.icon" value="true" />
+    <entry key="i18n.locale" value="" />
   </component>
 </application>

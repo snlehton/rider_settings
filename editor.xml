@@ -32,7 +32,7 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG:)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
   <component name="YamlEditorOptions">
