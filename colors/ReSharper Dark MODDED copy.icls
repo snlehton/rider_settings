@@ -164,7 +164,7 @@
       <value>
         <option name="FOREGROUND" value="287bde" />
         <option name="EFFECT_COLOR" value="287bde" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
